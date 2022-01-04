@@ -24,8 +24,6 @@ O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros ta
 
 > ## Lista de Cursos:
 > ⏳ **Duração 60h** <br>
->  1x Projeto <br>
->  1x Desafio
 > #
 > - Lógica de Programação
 > - Estruturas de Dados e Algoritmos
