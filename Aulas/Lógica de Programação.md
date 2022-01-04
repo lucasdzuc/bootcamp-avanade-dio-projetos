@@ -2,7 +2,6 @@
 
 # Lógica de Programação
 
-
 </div>
 
 ## Entendendo o que é lógica
